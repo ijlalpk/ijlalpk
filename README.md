@@ -39,9 +39,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijlalpk&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijlalpk&hide_border=true" alt="GitHub streak" />
 </p>
