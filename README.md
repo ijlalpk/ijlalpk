@@ -9,7 +9,6 @@
 
 - 🔧 Transitioning into **DevOps / Cloud Engineering** — building skills in public, one commit at a time
 - ☸️ Currently preparing for the **CKA (Certified Kubernetes Administrator)** exam
-- 🎓 Pursuing a **BS in Information Technology** at Virtual University of Pakistan
 - 💼 Client Relations Specialist at a financial brokerage — I bring communication skills most engineers don't have
 - 👨‍🏫 I teach **Python, computer skills, and math** to students — teaching is how I learn best
 - 🌍 Long-term goal: **Senior DevOps Engineer** working internationally
