@@ -50,4 +50,4 @@
 
 ---
 
-<p align="center"><i>"Learning in public. Building in public. Every day counts."</i></p>
+<p align="center"><i>"Learning in public. Building in public. Every day counts."</i></p> 
