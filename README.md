@@ -1,4 +1,4 @@
-<!-- Create a repo named exactly `ijlalpk` and put this file in it as README.md -->
+<!-- Create a repo named exactly `ijlalpk` and put this file in it as README.md --> 
 
 <h1 align="center">Hi, I'm Ijlal Mazhar </h1>
 <h3 align="center">DevOps & Cloud Engineer in the making · Linux · Kubernetes · Terraform · CI/CD</h3>
